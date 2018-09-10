@@ -1,0 +1,30 @@
+﻿  controls.cpp
+c:\users\admin\source\repos\forms\forms\controls.cpp(333): warning C4101: 'ptMouse': unreferenced local variable
+  EasyBMP.cpp
+c:\users\admin\source\repos\forms\forms\easybmp\easybmp.cpp(994): warning C4101: 'ZeroWORD': unreferenced local variable
+  Form1.cpp
+c:\users\admin\source\repos\forms\forms\form1.h(715): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(716): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(717): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(752): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(753): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(754): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(694): warning C4101: 'n': unreferenced local variable
+c:\users\admin\source\repos\forms\forms\form1.h(873): warning C4101: 'b': unreferenced local variable
+c:\users\admin\source\repos\forms\forms\form1.h(917): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  helper.cpp
+c:\users\admin\source\repos\forms\forms\form1.h(715): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(716): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(717): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(752): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(753): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(754): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\forms\forms\form1.h(694): warning C4101: 'n': unreferenced local variable
+c:\users\admin\source\repos\forms\forms\form1.h(873): warning C4101: 'b': unreferenced local variable
+c:\users\admin\source\repos\forms\forms\form1.h(917): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  ScanArea.cpp
+  stdafx.cpp
+  UpdateForm.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Forms.vcxproj -> C:\Users\Admin\source\repos\Forms\x64\Release\EggoBot.exe

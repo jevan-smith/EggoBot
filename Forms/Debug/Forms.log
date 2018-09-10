@@ -1,0 +1,71 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Forms.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  controls.cpp
+c:\users\admin\desktop\eggobot source\forms\controls.cpp(334): warning C4101: 'ptMouse': unreferenced local variable
+c:\users\admin\desktop\eggobot source\forms\controls.cpp(366): warning C4101: 'ptMouse': unreferenced local variable
+c:\users\admin\desktop\eggobot source\forms\controls.cpp(392): warning C4018: '<': signed/unsigned mismatch
+  EasyBMP.cpp
+c:\users\admin\desktop\eggobot source\forms\easybmp\easybmp.cpp(994): warning C4101: 'ZeroWORD': unreferenced local variable
+  Form1.cpp
+c:\users\admin\desktop\eggobot source\forms\form1.h(707): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(708): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(709): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(752): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(753): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(754): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(686): warning C4101: 'n': unreferenced local variable
+c:\users\admin\desktop\eggobot source\forms\form1.h(850): warning C4101: 'b': unreferenced local variable
+c:\users\admin\desktop\eggobot source\forms\form1.h(894): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  helper.cpp
+c:\users\admin\desktop\eggobot source\forms\form1.h(707): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(708): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(709): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(752): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(753): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(754): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\eggobot source\forms\form1.h(686): warning C4101: 'n': unreferenced local variable
+c:\users\admin\desktop\eggobot source\forms\form1.h(850): warning C4101: 'b': unreferenced local variable
+c:\users\admin\desktop\eggobot source\forms\form1.h(894): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  ScanArea.cpp
+  stdafx.cpp
+  UpdateForm.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+UpdateForm.obj : error LNK2020: unresolved token (0A00059F) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+ScanArea.obj : error LNK2020: unresolved token (0A0004AE) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+helper.obj : error LNK2020: unresolved token (0A0009DE) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+Form1.obj : error LNK2020: unresolved token (0A000676) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+EasyBMP.obj : error LNK2020: unresolved token (0A000470) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+controls.obj : error LNK2020: unresolved token (0A0008FF) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+UpdateForm.obj : error LNK2020: unresolved token (0A00053F) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+ScanArea.obj : error LNK2020: unresolved token (0A000456) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+helper.obj : error LNK2020: unresolved token (0A000A0A) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+Form1.obj : error LNK2020: unresolved token (0A00060E) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+EasyBMP.obj : error LNK2020: unresolved token (0A0003FC) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+controls.obj : error LNK2020: unresolved token (0A000928) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+helper.obj : error LNK2020: unresolved token (0A000B24) "extern "C" void * __cdecl _calloc_dbg(unsigned int,unsigned int,int,char const *,int)" (?_calloc_dbg@@$$J0YAPAXIIHPBDH@Z)
+Form1.obj : error LNK2020: unresolved token (0A0006C0) "extern "C" void * __cdecl _calloc_dbg(unsigned int,unsigned int,int,char const *,int)" (?_calloc_dbg@@$$J0YAPAXIIHPBDH@Z)
+controls.obj : error LNK2028: unresolved token (0A000A2E) "extern "C" void * __cdecl _calloc_dbg(unsigned int,unsigned int,int,char const *,int)" (?_calloc_dbg@@$$J0YAPAXIIHPBDH@Z) referenced in function "wchar_t * __cdecl std::_Maklocstr<wchar_t>(char const *,wchar_t *,struct _Cvtvec const &)" (??$_Maklocstr@_W@std@@$$FYAPA_WPBDPA_WABU_Cvtvec@@@Z)
+UpdateForm.obj : error LNK2020: unresolved token (0A000676) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+ScanArea.obj : error LNK2020: unresolved token (0A000584) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+helper.obj : error LNK2028: unresolved token (0A000ED7) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z) referenced in function "public: void __thiscall std::_Iterator_base12::_Orphan_me(void)" (?_Orphan_me@_Iterator_base12@std@@$$FQAEXXZ)
+Form1.obj : error LNK2028: unresolved token (0A0007C8) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z) referenced in function "public: void __thiscall std::_Iterator_base12::_Orphan_me(void)" (?_Orphan_me@_Iterator_base12@std@@$$FQAEXXZ)
+EasyBMP.obj : error LNK2028: unresolved token (0A0004DA) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z) referenced in function "public: void __thiscall std::_Iterator_base12::_Orphan_me(void)" (?_Orphan_me@_Iterator_base12@std@@$$FQAEXXZ)
+controls.obj : error LNK2028: unresolved token (0A000D53) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z) referenced in function "public: void __thiscall std::_Iterator_base12::_Orphan_me(void)" (?_Orphan_me@_Iterator_base12@std@@$$FQAEXXZ)
+ScanArea.obj : error LNK2001: unresolved external symbol "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+UpdateForm.obj : error LNK2001: unresolved external symbol "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+controls.obj : error LNK2001: unresolved external symbol "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+EasyBMP.obj : error LNK2001: unresolved external symbol "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+Form1.obj : error LNK2001: unresolved external symbol "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+helper.obj : error LNK2001: unresolved external symbol "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+ScanArea.obj : error LNK2001: unresolved external symbol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+UpdateForm.obj : error LNK2001: unresolved external symbol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+controls.obj : error LNK2001: unresolved external symbol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+EasyBMP.obj : error LNK2001: unresolved external symbol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+Form1.obj : error LNK2001: unresolved external symbol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+helper.obj : error LNK2001: unresolved external symbol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z)
+controls.obj : error LNK2019: unresolved external symbol "extern "C" void * __cdecl _calloc_dbg(unsigned int,unsigned int,int,char const *,int)" (?_calloc_dbg@@$$J0YAPAXIIHPBDH@Z) referenced in function "wchar_t * __cdecl std::_Maklocstr<wchar_t>(char const *,wchar_t *,struct _Cvtvec const &)" (??$_Maklocstr@_W@std@@$$FYAPA_WPBDPA_WABU_Cvtvec@@@Z)
+Form1.obj : error LNK2001: unresolved external symbol "extern "C" void * __cdecl _calloc_dbg(unsigned int,unsigned int,int,char const *,int)" (?_calloc_dbg@@$$J0YAPAXIIHPBDH@Z)
+helper.obj : error LNK2001: unresolved external symbol "extern "C" void * __cdecl _calloc_dbg(unsigned int,unsigned int,int,char const *,int)" (?_calloc_dbg@@$$J0YAPAXIIHPBDH@Z)
+controls.obj : error LNK2019: unresolved external symbol __CrtDbgReportW referenced in function "public: __thiscall ATL::CAtlComModule::CAtlComModule(void)" (??0CAtlComModule@ATL@@QAE@XZ)
+helper.obj : error LNK2001: unresolved external symbol __CrtDbgReportW
+C:\Users\Admin\Desktop\EggoBot Source\Debug\EggoBot.exe : fatal error LNK1120: 25 unresolved externals
