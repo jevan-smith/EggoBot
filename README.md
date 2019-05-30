@@ -1,5 +1,5 @@
 ## Authors
-Made by: Jevan, and Juan
+Made by: Jevan
 
 ## Project Goals
 The goal of this project was to build/learn how to make a GUI application using C++ Visual Studios.
