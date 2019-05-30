@@ -1,6 +1,3 @@
-# EggoBot-V2
-A World of Warcraft Pixel-based fishing bot!
-
 ## Authors
 Made by: Jevan, and Juan
 
