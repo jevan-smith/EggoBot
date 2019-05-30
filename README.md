@@ -17,7 +17,7 @@ The goal of this project was to build/learn how to make a GUI application using 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZOHQxZvFqOQ
 " target="_blank"><img src="http://img.youtube.com/vi/ZOHQxZvFqOQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="ZOHQxZvFqOQ" width="240" height="180" border="10" /></a>
 
 For more information Visit: 
 https://www.ownedcore.com/forums/showthread.php?t=734692&p=3942427#post3942427
