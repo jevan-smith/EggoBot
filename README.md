@@ -1,7 +1,7 @@
 ![demo gif1](sample.gif)
 
-## Authors
-Made by: Jevan Smith
+## Author
+Jevan Smith
 
 ## Project Goals
 The goal of this project was to build/learn how to make a GUI application using C++ Visual Studios.
