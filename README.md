@@ -1,3 +1,5 @@
+![demo gif1](sample.gif)
+
 ## Authors
 Made by: Jevan Smith
 
