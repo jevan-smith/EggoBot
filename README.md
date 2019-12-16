@@ -12,7 +12,7 @@ The goal of this project was to build/learn how to make a GUI application using 
 - Visual Studios 2017
 
 ## Expected Outputs Below
-:exclamation: This project was originally made for personal use and wasn't intended for large exposure, therefore the source code will contain bad code, dead code, and variable naming confusion. That said I hope you enjoy the Bot!
+:exclamation: This project was originally made for personal use and wasn't intended for large exposure, therefore the source code will contain bad code, dead code, and variable naming confusion. That said, I hope you enjoy the Bot!
 
 Demo Video:
 http://www.youtube.com/watch?feature=player_embedded&v=ZOHQxZvFqOQ
